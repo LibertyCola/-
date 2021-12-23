@@ -1,0 +1,3 @@
+backend:
+  name: git-gateway
+  branch: webstack-mod # Branch to update (optional; defaults to master)
